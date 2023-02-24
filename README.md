@@ -1,8 +1,9 @@
 
 # About this project
 
-This project aims to demonstrate the use of SQL to answer hypothetical sales and marketing questions about a DVD rental store with a MySQL database named Sakila.
+This project aims to use SQL queries to explore the DVD rental dataset to gain an understanding of inventory level, consumer behavior, store sales and performance.
 
+Dataset was connected in MySQL Workbench, and then Jupyter Notebook was set up to access data from MySQL databases by loading the sql magic jupyter notebook extension.
 # Sakila Database
 
 The Sakila database is a nicely normalised schema modelling a DVD rental store, featuring things like films, actors, film-actor relationships, and a central inventory table that connects films, stores, and rentals.
