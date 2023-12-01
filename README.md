@@ -13,7 +13,7 @@ The Sakila MySQL sample database is available from http://dev.mysql.com/doc/inde
 
 ## Sakila Database Entity Relationship Diagram(ERD)
 
-<img src="https://www.jooq.org/img/sakila.png">
+[https://www.jooq.org/img/sakila.png](https://www.jooq.org/img/sakila.png)
 
 
 ## Problem Description
